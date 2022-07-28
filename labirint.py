@@ -74,7 +74,7 @@ win_width = 700
 win_height = 500
 display.set_caption('Лабиринт')
 window = display.set_mode((win_width, win_height))
-back = (119, 210, 223)
+back = (255, 166, 149)
 
 barriers = sprite.Group()
 
